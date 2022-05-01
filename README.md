@@ -6,4 +6,4 @@ This was one of the projects in Angela Yu's Web Development Bootcamp Course on U
 
 With this project I learned and understood <strong>jQery</strong> better.
 
-[Here]() is the link for the website. Go play and have fun 😀
+[Here](https://emreozturanli.github.io/Simon-Game/) is the link for the website. Go play and have fun 😀
